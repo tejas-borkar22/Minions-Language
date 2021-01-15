@@ -1,0 +1,22 @@
+#txt-Ip{
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 0.2rem;
+}
+.large{
+    font-size: 1rem;
+    font-weight: 450;
+    display: block;
+    border: 2px solid;
+    height: 10vh;
+    width: 70%;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+/* function clickHandler() {
+    console.log("clicked!");
+    console.log("input : ", txtInput.value);
+};
+
+btnTranslate.addEventListener("click", clickHandler()); */
